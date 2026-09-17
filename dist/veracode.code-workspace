@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../veracode"
+		},
+		{
+			"path": "../../uploadandscan-action"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../github-actions-integration-helper"
+		}
+	]
+}
